@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/photo-phantasmagoria/static/css/main.4bb84c01.css",
+    "main.js": "/photo-phantasmagoria/static/js/main.967ec4f1.js",
+    "static/media/hero-img.jpg": "/photo-phantasmagoria/static/media/hero-img.e75434bb423a64958644.jpg",
+    "index.html": "/photo-phantasmagoria/index.html",
+    "main.4bb84c01.css.map": "/photo-phantasmagoria/static/css/main.4bb84c01.css.map",
+    "main.967ec4f1.js.map": "/photo-phantasmagoria/static/js/main.967ec4f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb84c01.css",
+    "static/js/main.967ec4f1.js"
+  ]
+}
