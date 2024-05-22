@@ -1,0 +1,41 @@
+.filter {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 2rem 0 0.75rem 0;
+    background-color: #0b1215fa;
+
+    @media screen and (min-width: 768px) {
+        padding: 2rem 0;
+    }
+}
+.filter__container {
+    max-width: 1200px;
+    width: 96%;
+    margin: 0 auto;
+}
+
+.filter__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    @media screen and (min-width: 768px) {
+        align-items: baseline;
+        gap: 6rem;
+        flex-direction: row;
+    }
+}
+.filter__mainButton {
+    text-wrap: nowrap;
+    border: 1px solid #e5dfd3;
+    border-radius: 8px;
+    background-color: #e5dfd3;
+    text-transform: uppercase;
+    padding: 0.4rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.05rem;
+    max-width: 300px;
+    margin-right: auto;
+}
