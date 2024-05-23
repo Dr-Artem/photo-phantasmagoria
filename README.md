@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Photo Phantasmagoria
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/logo.png)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+**Photo Phantasmagoria** is an interactive photo gallery that allows users to
+browse and enjoy various photographs in a beautiful and user-friendly interface.
+The project is focused on providing a pleasant user experience with an emphasis
+on visual appeal and ease of use.
 
-### `npm start`
+## Link
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can view the gallery at this link:
+[Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+-   **Photo Browsing**: Easily browse through photographs using a simple
+    interface.
+-   **Filters and Categories**: Apply filters and browse photographs by
+    categories.
+-   **Fullscreen Mode**: Open photographs in fullscreen mode for detailed
+    viewing.
+-   **Responsive Design**: Optimized for various devices including mobile phones
+    and tablets.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+-   **HTML5**: Foundation for the web page structure.
+-   **CSS3**: Styling and layout of the interface.
+-   **JavaScript**: Dynamic functionality and user interaction.
+-   **GitHub Pages**: Hosting the project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If you want to run the project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/dr-artem/photo-phantasmagoria.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd photo-phantasmagoria
+    ```
+3. Install all requirements:
+    ```bash
+    npm install
+    ```
+4. Launch the project:
+    ```bash
+    npm start
+    ```
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+If you want to contribute to the project's development, please follow these
+steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -m 'Added a new feature'
+    ```
+4. Push your changes to GitHub:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. Create a pull request for your changes to be reviewed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is licensed under the [MIT License](LICENSE).
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any questions or suggestions, please feel free to contact us:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   Author: Artem
+-   GitHub: [dr-artem](https://github.com/dr-artem)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![GitHub repo size](https://img.shields.io/github/repo-size/dr-artem/photo-phantasmagoria)
+![GitHub last commit](https://img.shields.io/github/last-commit/dr-artem/photo-phantasmagoria)
+![GitHub stars](https://img.shields.io/github/stars/dr-artem/photo-phantasmagoria?style=social)
