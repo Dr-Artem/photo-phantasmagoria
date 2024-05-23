@@ -1,6 +1,6 @@
 # Photo Phantasmagoria
 
-![Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/logo.png)
+![Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/favicon-32x32.png)
 
 ## Опис
 

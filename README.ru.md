@@ -1,6 +1,6 @@
 # Фото Фантасмагория
 
-![Фото Фантасмагория](https://dr-artem.github.io/photo-phantasmagoria/logo.png)
+![Фото Фантасмагория](https://dr-artem.github.io/photo-phantasmagoria/favicon-32x32.png)
 
 ## Описание
 
