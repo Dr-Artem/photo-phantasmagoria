@@ -45,20 +45,16 @@
 .gallery__item.loaded .gallery__image {
     opacity: 1;
 }
-.gallery__item:nth-child(9n) {
-    @media screen and (min-width: 480px) {
-        grid-column: span 2;
+@media screen and (min-width: 480px) {
+    .gallery__item:nth-child(9n) {
+        grid-column: span 2 !important;
+        grid-row: span 2 !important;
+    }
+    .gallery__item:nth-child(7n) {
         grid-row: span 2;
     }
-}
-.gallery__item:nth-child(3n) {
-    @media screen and (min-width: 480px) {
+    .gallery__item:nth-child(3n) {
         grid-column: span 2;
-    }
-}
-.gallery__item:nth-child(7n) {
-    @media screen and (min-width: 480px) {
-        grid-row: span 2;
     }
 }
 
