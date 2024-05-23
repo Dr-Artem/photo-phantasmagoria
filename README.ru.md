@@ -1,10 +1,8 @@
-# Фото Фантасмагория
-
-![Фото Фантасмагория](https://dr-artem.github.io/photo-phantasmagoria/favicon-32x32.png)
+# ![Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/favicon-32x32.png) Photo Phantasmagoria
 
 ## Описание
 
-**Фото Фантасмагория** - это интерактивная фотогалерея, позволяющая
+**Photo Phantasmagoria** - это интерактивная фотогалерея, позволяющая
 пользователям просматривать и наслаждаться различными фотографиями в красивом и
 удобном интерфейсе. Проект ориентирован на создание приятного пользовательского
 опыта с акцентом на визуальное привлекательность и простоту использования.
@@ -12,7 +10,7 @@
 ## Ссылка
 
 Вы можете просмотреть галерею по этой ссылке:
-[Фото Фантасмагория](https://dr-artem.github.io/photo-phantasmagoria/)
+[Photo Phantasmagoria](https://dr-artem.github.io/photo-phantasmagoria/)
 
 ## Особенности
 
