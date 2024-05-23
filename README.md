@@ -23,13 +23,6 @@ You can view the gallery at this link:
 -   **Responsive Design**: Optimized for various devices including mobile phones
     and tablets.
 
-## Technologies Used
-
--   **HTML5**: Foundation for the web page structure.
--   **CSS3**: Styling and layout of the interface.
--   **JavaScript**: Dynamic functionality and user interaction.
--   **GitHub Pages**: Hosting the project.
-
 ## Installation
 
 If you want to run the project locally, follow these steps:
